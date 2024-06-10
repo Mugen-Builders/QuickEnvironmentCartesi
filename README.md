@@ -45,7 +45,7 @@ Oracle VirtualBox is a free and open-source hosted hypervisor for x86 virtualiza
     
 3.  Open Oracle VirtualBox and go to the `Tools` menu, then select the `Import` option.
 
- ![1](https://github.com/Mugen-Builders/QuickEnvironmentCartesi/assets/4421825/cecdc323-f993-4e3c-93a8-c741e00fe094)
+![1](https://github.com/Mugen-Builders/QuickEnvironmentCartesi/assets/4421825/cecdc323-f993-4e3c-93a8-c741e00fe094)
     
 5.  Select the `Template-Cartesi.ova` file you downloaded.
     
@@ -55,12 +55,12 @@ Oracle VirtualBox is a free and open-source hosted hypervisor for x86 virtualiza
     
 6.  Click `Next`.
     
-    ![3](https://github.com/Mugen-Builders/QuickEnvironmentCartesi/assets/4421825/d7c51ab8-357f-44cf-ba61-7921abb5053f)
+![3](https://github.com/Mugen-Builders/QuickEnvironmentCartesi/assets/4421825/d7c51ab8-357f-44cf-ba61-7921abb5053f)
 
     
 7.  The VM will show up in the side list as shown below:
     
-   ![5](https://github.com/Mugen-Builders/QuickEnvironmentCartesi/assets/4421825/f0b257bf-36df-4f71-8274-9177942b4fcc)
+![5](https://github.com/Mugen-Builders/QuickEnvironmentCartesi/assets/4421825/f0b257bf-36df-4f71-8274-9177942b4fcc)
 
     
 8.  Select the VM and click `Start`.
